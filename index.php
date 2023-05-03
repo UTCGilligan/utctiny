@@ -43,7 +43,7 @@ if ( isset( $_REQUEST['url'] ) && $_REQUEST['url'] != 'http://' ) {
 yourls_html_head();
 
 // Display title
-echo "<h1>tinyUTC - URL Shortener for UTC.edu</h1>\n";
+echo "<h1>tiny.UTC.edu &mdash; URL Shortener</h1>";
 
 // Display left hand menu
 yourls_html_menu() ;
