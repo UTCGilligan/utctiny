@@ -14,5 +14,5 @@ URL Shortener with [YOURLS](https://yourls.org).
 ### Collaborators
 
 - [UTCGilligan](https://github.com/UTCGilligan)
-- [MajorS](https://github.com/majorschwartz)
+- [Major Schwartz](https://github.com/majorschwartz)
 - [DanielD](https://github.com/danielduggin2)
